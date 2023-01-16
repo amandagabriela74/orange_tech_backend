@@ -7,8 +7,8 @@ public class Ex1_OrdemInversa {
 	public static void main(String[] args) {
 
 		int[] vetor = { -5, -9, 15, 80, 8, 19 };
-		
-		
+		 
+		System.out.println(vetor.length);
 		System.out.println("Vetor: ");
 		int count = 0;
 		while (count < vetor.length) {
